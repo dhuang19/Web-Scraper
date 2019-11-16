@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="525bc851-5eb0-4650-921e-3f33824163a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebScraperAPI_Sol/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebScraperAPI_Sol/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/App_Start/BundleConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/App_Start/FilterConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/App_Start/RouteConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Content/Site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Content/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Content/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Content/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Content/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Content/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Content/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Content/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Content/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Controllers/HomeController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Controllers/MoviesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebScraperAPI/Controllers/MoviesController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Global.asax" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Global.asax.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/JSONData" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebScraperAPI/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Scripts/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Scripts/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Scripts/jquery-3.3.1.intellisense.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Scripts/jquery-3.3.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Scripts/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Scripts/jquery-3.3.1.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Scripts/jquery-3.3.1.slim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Scripts/jquery-3.3.1.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Scripts/jquery-3.3.1.slim.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Scripts/jquery.validate-vsdoc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Scripts/jquery.validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Scripts/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Scripts/jquery.validate.unobtrusive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Scripts/jquery.validate.unobtrusive.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Scripts/modernizr-2.8.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Utilities/GraphUtilities.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebScraperAPI/Utilities/GraphUtilities.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Utilities/JSONUtilities.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebScraperAPI/Utilities/JSONUtilities.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Views/Home/About.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Views/Home/Contact.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Views/Home/Index.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Views/Shared/Error.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Views/Shared/_Layout.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Views/Web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Views/_ViewStart.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Web.Debug.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Web.Release.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/Web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/Antlr3.Runtime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/Antlr3.Runtime.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/Debug/netcoreapp1.1/WebScraperAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebScraperAPI/bin/Debug/netcoreapp1.1/WebScraperAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/Debug/netcoreapp1.1/WebScraperAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebScraperAPI/bin/Debug/netcoreapp1.1/WebScraperAPI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/HtmlAgilityPack.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/HtmlAgilityPack.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/Microsoft.Web.Infrastructure.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/System.Web.Helpers.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/System.Web.Helpers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/System.Web.Mvc.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/System.Web.Mvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/System.Web.Optimization.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/System.Web.Razor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/System.Web.Razor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/System.Web.WebPages.Deployment.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/System.Web.WebPages.Deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/System.Web.WebPages.Razor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/System.Web.WebPages.Razor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/System.Web.WebPages.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/System.Web.WebPages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/WebGrease.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/WebScraperAPI.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/bin/WebScraperAPI.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/obj/Debug/WebScraperAPI.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/obj/Debug/WebScraperAPI.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/obj/Debug/WebScraperAPI.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/obj/Debug/WebScraperAPI.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/obj/Debug/WebScraperAPI.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/obj/Debug/WebScraperAPI.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/obj/Debug/netcoreapp1.0/WebScraperAPI.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/obj/Debug/netcoreapp1.1/CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebScraperAPI/obj/Debug/netcoreapp1.1/CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/obj/Debug/netcoreapp1.1/WebScraperAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebScraperAPI/obj/Debug/netcoreapp1.1/WebScraperAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/obj/Debug/netcoreapp1.1/WebScraperAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebScraperAPI/obj/Debug/netcoreapp1.1/WebScraperAPI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScraperAPI/packages.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Antlr.3.5.0.2/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Antlr.3.5.0.2/Antlr.3.5.0.2.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Antlr.3.5.0.2/lib/Antlr3.Runtime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Antlr.3.5.0.2/lib/Antlr3.Runtime.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/HtmlAgilityPack.1.11.16.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/Net35/HtmlAgilityPack.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/Net35/HtmlAgilityPack.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/Net35/HtmlAgilityPack.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/Net40-client/HtmlAgilityPack.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/Net40-client/HtmlAgilityPack.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/Net40-client/HtmlAgilityPack.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/Net40/HtmlAgilityPack.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/Net40/HtmlAgilityPack.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/Net40/HtmlAgilityPack.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/Net45/HtmlAgilityPack.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/Net45/HtmlAgilityPack.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/Net45/HtmlAgilityPack.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/NetCore45/HtmlAgilityPack.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/NetCore45/HtmlAgilityPack.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/NetCore45/HtmlAgilityPack.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/netstandard1.3/HtmlAgilityPack.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/netstandard1.3/HtmlAgilityPack.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/netstandard1.3/HtmlAgilityPack.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/netstandard1.3/HtmlAgilityPack.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/netstandard1.6/HtmlAgilityPack.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/netstandard1.6/HtmlAgilityPack.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/netstandard1.6/HtmlAgilityPack.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/netstandard1.6/HtmlAgilityPack.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/netstandard2.0/HtmlAgilityPack.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/netstandard2.0/HtmlAgilityPack.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/netstandard2.0/HtmlAgilityPack.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/netstandard2.0/HtmlAgilityPack.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/portable-net45+netcore45+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/portable-net45+netcore45+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/portable-net45+netcore45+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/uap10.0/HtmlAgilityPack.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/uap10.0/HtmlAgilityPack.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/uap10.0/HtmlAgilityPack.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/HtmlAgilityPack.1.11.16/lib/uap10.0/HtmlAgilityPack.pri" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.Mvc.5.2.7/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.Mvc.5.2.7/Content/Web.config.install.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.Mvc.5.2.7/Content/Web.config.uninstall.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.Mvc.5.2.7/Microsoft.AspNet.Mvc.5.2.7.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.Mvc.5.2.7/lib/net45/System.Web.Mvc.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.Mvc.5.2.7/lib/net45/System.Web.Mvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.Razor.3.2.7/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.Razor.3.2.7/Microsoft.AspNet.Razor.3.2.7.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.Razor.3.2.7/lib/net45/System.Web.Razor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.Razor.3.2.7/lib/net45/System.Web.Razor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.Web.Optimization.1.1.3/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.Web.Optimization.1.1.3/Microsoft.AspNet.Web.Optimization.1.1.3.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.Web.Optimization.1.1.3/lib/net40/System.Web.Optimization.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.Web.Optimization.1.1.3/lib/net40/system.web.optimization.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.7/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.7/Content/Web.config.install.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.7/Content/Web.config.uninstall.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.7/Microsoft.AspNet.WebPages.3.2.7.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.Helpers.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.Helpers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.Deployment.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.Deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.Razor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.Razor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/build/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/build/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/build/net46/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/build/net46/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net45/app.config.install.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net45/app.config.uninstall.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net45/web.config.install.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net45/web.config.uninstall.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net46/app.config.install.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net46/app.config.uninstall.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net46/web.config.install.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net46/web.config.uninstall.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.Build.Tasks.CodeAnalysis.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.CSharp.Core.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.CodeAnalysis.CSharp.Scripting.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.CodeAnalysis.Scripting.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.CodeAnalysis.VisualBasic.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.CodeAnalysis.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.DiaSymReader.Native.amd64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.DiaSymReader.Native.x86.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.VisualBasic.Core.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/System.AppContext.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/System.Collections.Immutable.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/System.Diagnostics.StackTrace.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/System.IO.FileSystem.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/System.IO.FileSystem.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/System.Reflection.Metadata.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/VBCSCompiler.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/VBCSCompiler.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/csc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/csc.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/csc.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/csi.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/csi.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/vbc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/vbc.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/vbc.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.Build.Tasks.CodeAnalysis.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.CSharp.Core.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.CodeAnalysis.CSharp.Scripting.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.CodeAnalysis.Scripting.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.CodeAnalysis.VisualBasic.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.CodeAnalysis.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.DiaSymReader.Native.amd64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.DiaSymReader.Native.x86.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.Managed.Core.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.VisualBasic.Core.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.AppContext.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Collections.Immutable.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Console.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Diagnostics.FileVersionInfo.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Diagnostics.StackTrace.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.IO.Compression.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.IO.FileSystem.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.IO.FileSystem.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.IO.Pipes.AccessControl.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.IO.Pipes.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Reflection.Metadata.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.AccessControl.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Claims.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Cryptography.Algorithms.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Cryptography.Encoding.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Cryptography.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Cryptography.X509Certificates.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Principal.Windows.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Text.Encoding.CodePages.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.ValueTuple.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Xml.ReaderWriter.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Xml.XPath.XDocument.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Xml.XPath.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Xml.XmlDocument.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/VBCSCompiler.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/VBCSCompiler.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/csc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/csc.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/csc.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/csi.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/csi.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/csi.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/vbc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/vbc.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/vbc.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/net45/install.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/net45/uninstall.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Web.Infrastructure.1.0.0.0/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Web.Infrastructure.1.0.0.0/Microsoft.Web.Infrastructure.1.0.0.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.Web.Infrastructure.1.0.0.0/lib/net40/Microsoft.Web.Infrastructure.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.11/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.11/Content/Scripts/jquery.validate.unobtrusive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.11/Content/Scripts/jquery.validate.unobtrusive.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.11/Microsoft.jQuery.Unobtrusive.Validation.3.2.11.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Modernizr.2.8.3/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Modernizr.2.8.3/Content/Scripts/modernizr-2.8.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Modernizr.2.8.3/Modernizr.2.8.3.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Modernizr.2.8.3/Tools/common.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Modernizr.2.8.3/Tools/install.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Modernizr.2.8.3/Tools/uninstall.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/Newtonsoft.Json.11.0.1.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/net20/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/net20/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/net35/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/net35/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/net40/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/net40/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/net45/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/net45/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/netstandard1.0/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/netstandard1.0/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/netstandard1.3/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/netstandard1.3/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/netstandard2.0/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/netstandard2.0/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/WebGrease.1.6.0/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/WebGrease.1.6.0/WebGrease.1.6.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/WebGrease.1.6.0/lib/WebGrease.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/WebGrease.1.6.0/tools/WG.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/bootstrap.3.4.1.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/content/Content/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/content/Content/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/content/Content/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/content/Content/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/content/Content/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/content/Content/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/content/Content/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/content/Content/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/content/Scripts/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/content/Scripts/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/content/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/content/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/content/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/content/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/content/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/contentFiles/Content/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/contentFiles/Content/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/contentFiles/Content/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/contentFiles/Content/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/contentFiles/Content/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/contentFiles/Content/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/contentFiles/Content/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/contentFiles/Content/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/contentFiles/Scripts/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/contentFiles/Scripts/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/contentFiles/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/contentFiles/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/contentFiles/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/contentFiles/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.4.1/contentFiles/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1-vsdoc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1.slim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1.slim.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/Tools/common.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/Tools/install.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/Tools/jquery-3.3.1.intellisense.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/Tools/uninstall.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/jQuery.3.3.1.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.Validation.1.17.0/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.Validation.1.17.0/Content/Scripts/jquery.validate-vsdoc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.Validation.1.17.0/Content/Scripts/jquery.validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.Validation.1.17.0/Content/Scripts/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.Validation.1.17.0/jQuery.Validation.1.17.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebScraper_Sol/WebScraper/JSONData" beforeDir="false" afterPath="$PROJECT_DIR$/../WebScraper_Sol/WebScraper/JSONData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebScraper_Sol/WebScraper/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebScraper_Sol/WebScraper/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebScraper_Sol/WebScraper/Utilities/GraphUtilities.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebScraper_Sol/WebScraper/Utilities/GraphUtilities.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebScraper_Sol/WebScraper/bin/Debug/IronWebScraper.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebScraper_Sol/WebScraper/bin/Debug/WebScraper.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../WebScraper_Sol/WebScraper/bin/Debug/WebScraper.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebScraper_Sol/WebScraper/bin/Debug/WebScraper.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WebScraper_Sol/WebScraper/bin/Debug/WebScraper.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebScraper_Sol/WebScraper/obj/Debug/WebScraper.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../WebScraper_Sol/WebScraper/obj/Debug/WebScraper.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebScraper_Sol/WebScraper/obj/Debug/WebScraper.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WebScraper_Sol/WebScraper/obj/Debug/WebScraper.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebScraper_Sol/packages/IronWebScraper.4.0.4.3/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebScraper_Sol/packages/IronWebScraper.4.0.4.3/IronWebScraper.4.0.4.3.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebScraper_Sol/packages/IronWebScraper.4.0.4.3/lib/net452/IronWebScraper.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebScraper_Sol/packages/IronWebScraper.4.0.4.3/lib/net452/IronWebScraper.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebScraper_Sol/packages/IronWebScraper.4.0.4.3/lib/readme.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WebScraperAPI/Utilities/GraphUtilities.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebScraperAPI/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebScraperAPI/Controllers/ActorsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebScraperAPI/Controllers/ScraperController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebScraperAPI/Controllers/MoviesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebScraperAPI/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebScraperAPI/Models/Graph/Graph.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebScraperAPI/Utilities/JSONUtilities.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebScraperAPI/Models/Graph/MovieNode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebScraperAPI/Utilities/WikiXPaths.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WebScraperAPI/Controllers/ScraperController.cs" />
+        <option value="$PROJECT_DIR$/WebScraperAPI/Controllers/ValuesController.cs" />
+        <option value="$PROJECT_DIR$/WebScraperAPI/Controllers/ActorsController.cs" />
+        <option value="$PROJECT_DIR$/WebScraperAPI/Controllers/JSONController.cs" />
+        <option value="$PROJECT_DIR$/WebScraperAPI/Utilities/JSONUtilities.cs" />
+        <option value="$PROJECT_DIR$/WebScraperAPI/Utilities/GraphUtilities.cs" />
+        <option value="$PROJECT_DIR$/WebScraperAPI/Controllers/MoviesController.cs" />
+        <option value="$PROJECT_DIR$/WebScraperAPI/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SE2B0CaLq3dH5v40N0k0UOMeAY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/data.json" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/WebScraperAPI/bin/Debug/netcoreapp1.1/WebScraperAPI.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebScraperAPI" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WebScraperAPI/WebScraperAPI.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v1.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="525bc851-5eb0-4650-921e-3f33824163a2" name="Default Changelist" comment="" />
+      <created>1571114295823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571114295823</updated>
+      <workItem from="1571114300855" duration="8883000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint type="DotNet Exception Breakpoints">
+          <properties exception="System.ArgumentException" displayValue="System.ArgumentException" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/WebScraperAPI/Utilities/JSONUtilities.cs</url>
+          <line>66</line>
+          <properties documentPath="$PROJECT_DIR$/WebScraperAPI/Utilities/JSONUtilities.cs" initialLine="24">
+            <startOffsets>
+              <option value="2661" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2670" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

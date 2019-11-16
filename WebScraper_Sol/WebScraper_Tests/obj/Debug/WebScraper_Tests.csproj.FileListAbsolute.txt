@@ -1,0 +1,13 @@
+/home/diana/Documents/UIUC/FALL 19/CS 242/_local/fa19-cs242-assignment2.0/WebScraper_Sol/WebScraper_Tests/bin/Debug/WebScraper_Tests.dll
+/home/diana/Documents/UIUC/FALL 19/CS 242/_local/fa19-cs242-assignment2.0/WebScraper_Sol/WebScraper_Tests/bin/Debug/WebScraper_Tests.pdb
+/home/diana/Documents/UIUC/FALL 19/CS 242/_local/fa19-cs242-assignment2.0/WebScraper_Sol/WebScraper_Tests/bin/Debug/nunit.framework.dll
+/home/diana/Documents/UIUC/FALL 19/CS 242/_local/fa19-cs242-assignment2.0/WebScraper_Sol/WebScraper_Tests/bin/Debug/WebScraper.exe
+/home/diana/Documents/UIUC/FALL 19/CS 242/_local/fa19-cs242-assignment2.0/WebScraper_Sol/WebScraper_Tests/bin/Debug/HtmlAgilityPack.dll
+/home/diana/Documents/UIUC/FALL 19/CS 242/_local/fa19-cs242-assignment2.0/WebScraper_Sol/WebScraper_Tests/bin/Debug/WebScraper.pdb
+/home/diana/Documents/UIUC/FALL 19/CS 242/_local/fa19-cs242-assignment2.0/WebScraper_Sol/WebScraper_Tests/bin/Debug/nunit.framework.xml
+/home/diana/Documents/UIUC/FALL 19/CS 242/_local/fa19-cs242-assignment2.0/WebScraper_Sol/WebScraper_Tests/bin/Debug/HtmlAgilityPack.pdb
+/home/diana/Documents/UIUC/FALL 19/CS 242/_local/fa19-cs242-assignment2.0/WebScraper_Sol/WebScraper_Tests/obj/Debug/WebScraper_Tests.csprojAssemblyReference.cache
+/home/diana/Documents/UIUC/FALL 19/CS 242/_local/fa19-cs242-assignment2.0/WebScraper_Sol/WebScraper_Tests/obj/Debug/WebScraper_Tests.csproj.CoreCompileInputs.cache
+/home/diana/Documents/UIUC/FALL 19/CS 242/_local/fa19-cs242-assignment2.0/WebScraper_Sol/WebScraper_Tests/obj/Debug/WebScraper_Tests.csproj.CopyComplete
+/home/diana/Documents/UIUC/FALL 19/CS 242/_local/fa19-cs242-assignment2.0/WebScraper_Sol/WebScraper_Tests/obj/Debug/WebScraper_Tests.dll
+/home/diana/Documents/UIUC/FALL 19/CS 242/_local/fa19-cs242-assignment2.0/WebScraper_Sol/WebScraper_Tests/obj/Debug/WebScraper_Tests.pdb

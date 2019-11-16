@@ -1,0 +1,8 @@
+/home/diana/Documents/UIUC/FALL 19/CS 242/_local/fa19-cs242-assignment2.0/WebScraperAPI_Sol/WebScraperAPI/bin/Debug/netcoreapp1.1/WebScraperAPI.deps.json
+/home/diana/Documents/UIUC/FALL 19/CS 242/_local/fa19-cs242-assignment2.0/WebScraperAPI_Sol/WebScraperAPI/bin/Debug/netcoreapp1.1/WebScraperAPI.runtimeconfig.json
+/home/diana/Documents/UIUC/FALL 19/CS 242/_local/fa19-cs242-assignment2.0/WebScraperAPI_Sol/WebScraperAPI/bin/Debug/netcoreapp1.1/WebScraperAPI.runtimeconfig.dev.json
+/home/diana/Documents/UIUC/FALL 19/CS 242/_local/fa19-cs242-assignment2.0/WebScraperAPI_Sol/WebScraperAPI/bin/Debug/netcoreapp1.1/WebScraperAPI.dll
+/home/diana/Documents/UIUC/FALL 19/CS 242/_local/fa19-cs242-assignment2.0/WebScraperAPI_Sol/WebScraperAPI/bin/Debug/netcoreapp1.1/WebScraperAPI.pdb
+/home/diana/Documents/UIUC/FALL 19/CS 242/_local/fa19-cs242-assignment2.0/WebScraperAPI_Sol/WebScraperAPI/obj/Debug/netcoreapp1.1/WebScraperAPI.AssemblyInfo.cs
+/home/diana/Documents/UIUC/FALL 19/CS 242/_local/fa19-cs242-assignment2.0/WebScraperAPI_Sol/WebScraperAPI/obj/Debug/netcoreapp1.1/WebScraperAPI.dll
+/home/diana/Documents/UIUC/FALL 19/CS 242/_local/fa19-cs242-assignment2.0/WebScraperAPI_Sol/WebScraperAPI/obj/Debug/netcoreapp1.1/WebScraperAPI.pdb

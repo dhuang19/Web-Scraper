@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.2/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.2/system/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_WebScraperAPI_Sol.-657455245.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="WebScraperAPI" t="IncludeRecursive">
+        <e p="Controllers" t="Include">
+          <e p="ActorsController.cs" t="Include" />
+          <e p="MoviesController.cs" t="Include" />
+          <e p="ScraperController.cs" t="Include" />
+        </e>
+        <e p="Interfaces" t="Include">
+          <e p="ISraperController.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="ActorData.cs" t="Include" />
+          <e p="Data.cs" t="Include" />
+          <e p="Graph" t="Include">
+            <e p="ActorNode.cs" t="Include" />
+            <e p="Edge.cs" t="Include" />
+            <e p="Graph.cs" t="Include" />
+            <e p="MovieNode.cs" t="Include" />
+            <e p="Node.cs" t="Include" />
+          </e>
+          <e p="MovieData.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Startup.cs" t="Include" />
+        <e p="Utilities" t="Include">
+          <e p="ActorScrapingUtilities.cs" t="Include" />
+          <e p="GraphUtilities.cs" t="Include" />
+          <e p="JSONUtilities.cs" t="Include" />
+          <e p="MovieScrapingUtilities.cs" t="Include" />
+          <e p="UrlUtilities.cs" t="Include" />
+          <e p="WikiXPaths.cs" t="Include" />
+        </e>
+        <e p="WebScraperAPI.csproj" t="IncludeRecursive" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="data.json" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp1.1" t="Include">
+              <e p="WebScraperAPI.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="wwwroot" t="Include" />
+      </e>
+      <e p="WebScraperAPI_Sol.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
